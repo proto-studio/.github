@@ -1,5 +1,11 @@
 ## Proto Studio
 
+Proto Studio is a Low Code / No Code (LCNC) platform for building and deploying applications.
+
+We are committed to an "Open Core" model where anything you build on Proto Studio can easily be moved to your own servers. Feel free to use our Open Source contributions with or without using our product.
+
+For more information or to join our product wait ilist, visit the [Proto.Studio website](https://proto.studio/)
+
 <!--
 
 **Here are some ideas to get you started:**
