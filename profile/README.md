@@ -1,10 +1,15 @@
-## Proto Studio
+<picture style="max-width: 100px" alt="ProtoStudio">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/images/logo-dark.svg">
+  <img src="./profile/images/logo-light.svg">
+</picture>
 
-Proto Studio is a Low Code / No Code (LCNC) platform for building and deploying applications.
+ProtoStudio is a Low Code / No Code (LCNC) platform for building and deploying applications.
 
 We are committed to an "Open Core" model where anything you build on Proto Studio can easily be moved to your own servers. Feel free to use our Open Source contributions with or without using our product.
 
-For more information or to join our product wait ilist, visit the [Proto.Studio website](https://proto.studio/)
+For more information or to join our product wait list, visit the [Proto.Studio website](https://proto.studio/)
+
+For community support and to get involved, we welcome you to join the [ProtoStudio Discord Community](https://proto.studio/social/discord).
 
 <!--
 
