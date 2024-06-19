@@ -1,6 +1,6 @@
 <picture style="max-width: 100px" alt="ProtoStudio">
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/images/logo-dark.svg">
-  <img src="./profile/images/logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.svg">
+  <img src="./images/logo-light.svg">
 </picture>
 
 ProtoStudio is a Low Code / No Code (LCNC) platform for building and deploying applications.
